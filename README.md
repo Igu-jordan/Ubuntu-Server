@@ -1,2 +1,2 @@
-# tei-03-2019
+# ubunto-server
 Repositório de criação dos Scripts de automação do Ubunto Server
